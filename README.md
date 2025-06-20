@@ -11,13 +11,13 @@ Check each column for example, to see what it represents. Questions like: Are th
 
 ### 2. Data Cleaning
 
-• Standardize categorical values & ensure consistent across both datasets
+• Standardize categorical values & ensure consistency across both datasets
 
 • Handle null values/missing value.
 
 ### 3. Data Integration
 
-• Use SQL to merge both datasets on either Year, Neighborhood or Race in order to create a combined view of sex, age, and neighborhood impacts.
+• Use SQL to merge both datasets on: Year, Neighborhood or Race in order to create a combined view of sex, age, and neighborhood impacts.
 
 • Reshaping the data for easier analysis.
 
