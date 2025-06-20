@@ -1,4 +1,4 @@
-# Project_PlanProject Plan: HIV infections in New York City
+# Project Plan: HIV infections in New York City
 
 ## Project Objective
 
