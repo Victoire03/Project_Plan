@@ -6,39 +6,37 @@ This project aims to analyze the patterns and disparities of HIV infections in N
 
 ## Project Plan
 
-1. Data Understanding: What does my datasets look like?
+### 1. Data Understanding: What does my datasets look like?
 
-   Review dataset structures: In this phase, I will seek to understand both my datasets.
-   Check each column for example, to see what it represents. \
-   Questions like: Are they any missing values? What’s my data types and range? Will be answered here.\
+Review dataset structures: In this phase, I will seek to understand both my datasets.
+Check each column for example, to see what it represents. Questions like: Are they any missing values? What’s my data types and range? Will be answered here.
 
-2. Data Cleaning
+### 2. Data Cleaning
 
-   • Standardize categorical values & ensure consistent across both datasets\
-   • Handle null values/missing value.\
+• Standardize categorical values & ensure consistent across both datasets
+• Handle null values/missing value.
 
-3. Data Integration\
-   • Use SQL to merge both datasets on either Year, Neighborhood or Race in order to create a combined\ view of sex, age, and neighborhood impacts.\
-   • Reshaping the data for easier analysis.\
+### 3. Data Integration
 
-4. Data Exploration\
-   • Descriptive Stats:\
-   o Find total cases by race, age group, sex, and neighborhood.\
-   • Identify trends:\
-   o How have diagnoses changed over time for each group?\
-   • Group Comparisons:\
-   o Which race has the highest infection rate in each neighborhood?\
-   o Gender disparities across neighborhoods?\
-   o Are younger or older age groups more affected?\
+• Use SQL to merge both datasets on either Year, Neighborhood or Race in order to create a combined view of sex, age, and neighborhood impacts.
+• Reshaping the data for easier analysis.
 
-5. Data Visualization\
-   Using plots to reveal patterns:\
-   • Heatmaps for HIV rates by neighborhood and race.\
-   • Bar charts for infections by age and gender.\
-   • Time series to observe yearly trends.\
-   • Create a Tableau Dashboard from revealed patterns\
+### 4. Data Exploration
 
-6. Conclusion & Recommendations\
-   • Summarize key findings: Which groups and locations are most at risk?\
-   • Suggest targeted public health strategies.\
-   • Highlight limitations of the analysis (e.g., lack of behavioral or socioeconomic data).\
+• Descriptive Stats: Find total cases by race, age group, sex, and neighborhood.
+• Identify trends: How have diagnoses changed over time for each group?
+• Group Comparisons: Which race has the highest infection rate in each neighborhood? Gender disparities across neighborhoods? Are younger or older age groups more affected?
+
+### 5. Data Visualization
+
+Using plots to reveal patterns:
+• Heatmaps for HIV rates by neighborhood and race.
+• Bar charts for infections by age and gender.
+• Time series to observe yearly trends.
+• Create a Tableau Dashboard from revealed patterns
+
+### 6. Conclusion & Recommendations
+
+• Summarize key findings: Which groups and locations are most at risk?
+• Suggest targeted public health strategies.
+• Highlight limitations of the analysis (e.g., lack of behavioral or socioeconomic data).
